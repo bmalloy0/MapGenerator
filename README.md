@@ -40,3 +40,6 @@ A D&D-inspired map generator
         I have included in the repository an example good map -- no overlaps -- and an example
         bad map -- many overlaps. Each room and passage should be clearly defined and surrounded
         by walls, with clearly defined shapes.
+
+        I am NOT looking for optimization at this point -- I just want my script to work. I will
+        worry about optimizing at a later point in time.
